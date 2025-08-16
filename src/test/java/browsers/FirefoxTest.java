@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class FirefoxTest {
 /*    @Test
-    public void defaultModeTest (){
+    public void normalModeTest (){
         WebDriver driver = new FirefoxDriver();
         driver.get("https://www.selenium.dev/");
         Assert.assertEquals(driver.getTitle(), "Selenium");
